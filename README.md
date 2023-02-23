@@ -1,3 +1,3 @@
 React Weather App
 
-https://giuliannt.github.io/react-weather/
+https://giulianoconti.github.io/react-weather/
